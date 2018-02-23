@@ -1,6 +1,6 @@
 import { AppPage } from './app.po';
 
-describe('login-seed App', () => {
+describe('login-component App', () => {
   let page: AppPage;
 
   beforeEach(() => {
